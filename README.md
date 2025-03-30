@@ -4,6 +4,7 @@
 
 ## 히스토리
 
+- **45.** [약수의 합 (programmers)](https://github.com/logswave/algorithms/blob/main/45/index.js) - [2025.03.30]
 - **44.** [뒤집힌 문자열 (programmers)](https://github.com/logswave/algorithms/blob/main/44/index.js) - [2025.03.30]
 - **43.** [피자 나눠먹기 (programmers)](https://github.com/logswave/algorithms/blob/main/43/index.js) - [2025.03.30]
 - **42.** [직사각형 넓이 구하기 (programmers)](https://github.com/logswave/algorithms/blob/main/42/index.js) - [2024.05.06]
