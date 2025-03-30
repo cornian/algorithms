@@ -1,7 +1,11 @@
 # 알고리즘 스터디
+
 - 문제 해결 능력 향상을 위한 알고리즘 스터디
 
 ## 히스토리
+
+- **44.** [뒤집힌 문자열 (programmers)](https://github.com/logswave/algorithms/blob/main/44/index.js) - [2025.03.30]
+- **43.** [피자 나눠먹기 (programmers)](https://github.com/logswave/algorithms/blob/main/43/index.js) - [2025.03.30]
 - **42.** [직사각형 넓이 구하기 (programmers)](https://github.com/logswave/algorithms/blob/main/42/index.js) - [2024.05.06]
 - **41.** [신규 아이디 추천 (2021 KAKAO BLIND RECRUITMENT)](https://github.com/logswave/algorithms/blob/main/41/index.js) - [2024.05.02]
 - **40.** [외계어 사전 (programmers)](https://github.com/logswave/algorithms/blob/main/40/index.js) - [2024.04.26]
@@ -46,6 +50,7 @@
 - **01.** [배열 내 중복 아이템 삭제하기](https://github.com/logswave/algorithms/blob/main/01/index.js) - [2024.02.20]
 
 ## 나만의 작은 커밋 컨벤션
+
 ```bash
 new: '신규 문제 풀이 추가'
 
@@ -53,4 +58,3 @@ mod: '오타 수정 및 설명 추가'
 
 chore: '그 외'
 ```
-
