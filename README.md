@@ -4,6 +4,7 @@
 
 ## 히스토리
 
+- **47.** [폰켓몬 (programmers)](https://github.com/cornian/algorithms/blob/main/47/index.js) - [2025.04.06]
 - **46.** [자릿수 더하기 (programmers)](https://github.com/cornian/algorithms/blob/main/46/index.js) - [2025.04.06]
 - **45.** [약수의 합 (programmers)](https://github.com/cornian/algorithms/blob/main/45/index.js) - [2025.03.30]
 - **44.** [뒤집힌 문자열 (programmers)](https://github.com/cornian/algorithms/blob/main/44/index.js) - [2025.03.30]
